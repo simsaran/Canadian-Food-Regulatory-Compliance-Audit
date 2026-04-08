@@ -36,13 +36,22 @@ Each product was assessed across 6 regulatory categories:
 
 ## Key Findings
 
-### FOP Symbol Requirement
+### Findings:
+1. **5 out of 10 products** require the FOP nutrition symbol
+2. **Sodium** is the primary FOP trigger (3 products: Doritos 16%, Ruffles 18%, Miss Vickie's 18% DV)
+3. **Sugars** trigger FOP for beverages (Tropicana 22% DV, Gatorade 34% DV)
+4. **Tropicana OJ** triggers FOP for naturally occurring sugars — the regulation does not distinguish between natural and added sugars
+5. **Miss Vickie's** contains lactose (milk derivative) and correctly declares "Contains Milk and Barley Ingredients" — verified compliant
 
-* **5 out of 10 products** require the mandatory FOP nutrition symbol
-* **Sodium** is the primary trigger (Doritos 16% DV, Ruffles 18% DV, Miss Vickie's 18% DV)
-* **Sugars** trigger FOP for beverages (Tropicana 22% DV, Gatorade 34% DV)
-* Tropicana 100% orange juice triggers FOP for **naturally occurring sugars**, as the regulation does not distinguish between natural and added sugars
-* FOP compliance is **subject to packaging print date**, as CFIA permits pre-2026 inventory to remain in market
+### Methodology:
+Each product was assessed using a standardized procedure (SOP-REG-001) against the Canadian Food & Drug Regulations, CFIA Industry Labelling Tool, and Health Canada's FOP amendments. Non-conformances were documented using CAPA reports with 5 Whys root cause analysis.
+
+### Regulatory References:
+- FDR B.01.008.2 — Ingredient list requirements
+- FDR B.01.010.1 — Priority allergen declaration
+- FDR B.01.350 — Nutrition Facts Table
+- FDR B.01.503 — Nutrient content claims
+- Health Canada FOP Amendments (CGII, July 2022) — FOP nutrition symbol thresholds
 
 ### Allergen Compliance
 
