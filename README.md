@@ -41,7 +41,7 @@ Each product was assessed across 6 regulatory categories:
 2. **Sodium** is the primary FOP trigger (3 products: Doritos 16%, Ruffles 18%, Miss Vickie's 18% DV)
 3. **Sugars** trigger FOP for beverages (Tropicana 22% DV, Gatorade 34% DV)
 4. **Tropicana OJ** triggers FOP for naturally occurring sugars — the regulation does not distinguish between natural and added sugars
-5. **Miss Vickie's** contains lactose (milk derivative) and correctly declares "Contains Milk and Barley Ingredients" — verified compliant
+5. **Miss Vickie's** contains lactose (milk derivative) and correctly declares "Contains Milk and Barley Ingredients" : verified compliant
 
 ### Methodology:
 Each product was assessed using a standardized procedure (SOP-REG-001) against the Canadian Food & Drug Regulations, CFIA Industry Labelling Tool, and Health Canada's FOP amendments. Non-conformances were documented using CAPA reports with 5 Whys root cause analysis.
